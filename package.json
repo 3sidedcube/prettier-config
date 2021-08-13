@@ -1,0 +1,21 @@
+{
+  "name": "@3sidedcube/prettier-config",
+  "version": "1.0.0",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3sidedcube/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "3sidedcube",
+    "config",
+    "Code Quality"
+  ],
+  "author": "Kevin Borrill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3sidedcube/prettier-config/issues"
+  },
+  "homepage": "https://github.com/3sidedcube/prettier-config#readme"
+}
